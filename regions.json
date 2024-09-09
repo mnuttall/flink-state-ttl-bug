@@ -1,0 +1,5 @@
+{ "timestamp": "2020-01-10 10:00:00", "region": 1, "partner": "region1Partner2020" }
+{ "timestamp": "2021-02-15 10:00:00", "region": 2, "partner": "region2Partner2021" }
+{ "timestamp": "2021-03-04 10:00:00", "region": 3, "partner": "region3Partner2021" }
+{ "timestamp": "2022-03-04 10:00:00", "region": 4, "partner": "region4Partner2022" }
+{ "timestamp": "2023-03-04 10:00:00", "region": 4, "partner": "region4Partner2023" }

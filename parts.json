@@ -1,0 +1,8 @@
+{ "timestamp": "2024-07-14 10:00:00", "partid": "part-A", "cost": 10, "region": 1 }
+{ "timestamp": "2024-07-14 10:10:00", "partid": "part-B", "cost":  7, "region": 2 }
+{ "timestamp": "2024-07-14 10:20:00", "partid": "part-C", "cost":  3, "region": 3 }
+{ "timestamp": "2024-07-14 10:30:00", "partid": "part-A", "cost": 20, "region": 4 }
+{ "timestamp": "2024-07-14 11:00:00", "partid": "part-D", "cost": 10, "region": 1 }
+{ "timestamp": "2024-07-14 11:10:00", "partid": "part-E", "cost":  7, "region": 2 }
+{ "timestamp": "2024-07-14 11:20:00", "partid": "part-F", "cost":  3, "region": 3 }
+{ "timestamp": "2024-07-14 11:30:00", "partid": "part-G", "cost": 20, "region": 4 }

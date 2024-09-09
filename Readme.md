@@ -1,0 +1,1 @@
+The simplest way to run this is in IntelliJ, using the 'Add dependencies with "Provided" scope to classpath' option to run the 'DataSteamJob' class. 
